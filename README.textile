@@ -1,6 +1,6 @@
 h1. Sinatra-Shopify-Appengine: An easy and affordable way to deploy a Shopify app
 
-This is a slight modification to Jesse Storimer's Sinatra-Shopify app template that makes it easy to deploy on Google App Engine.  
+This is a slight modification to Jesse Storimer's Sinatra-Shopify app template that makes it easy to deploy on Google App Engine. Updates to the install instructions below are forthcoming. :)  
 
 h1. Sinatra-Shopify: A classy shopify_app
 
